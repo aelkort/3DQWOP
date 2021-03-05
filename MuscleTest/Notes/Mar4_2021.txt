@@ -1,4 +1,0 @@
-Got a key set up with a simple biped made out of capsules
-Unfortunately, the limitations of the spring working in a straight line only is proving to be more of an issue
-The bones just completely lock up at a certian point.
-I need to find a way to model the springs going around the joints.
