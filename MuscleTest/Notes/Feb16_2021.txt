@@ -1,0 +1,8 @@
+Today I focused on scripting some basic controls for my muslce in Unity
+-I rewatched the Lynda.com course on Unity scripting for a quick referesher
+-I scripted muscle control to work with Mouse button clicks - so holding down a mouse button activates a muscle
+-I notice an issue with placement of the spring anchor points. The spring force is a straight line through the objects
+-Depending on the angle of the joint, the spring might pull through and direct the joint in the wrong direction
+-My quick fix was adjusting the anchor points
+-A better fix might be scripting a relative point for the spring to pass through.
+-I think my next step though will be to build a basic bipedal locomotor to try with some basic mlagents stuff.

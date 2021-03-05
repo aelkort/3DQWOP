@@ -1,0 +1,11 @@
+First day trying to build muscle model in Unity.
+-Tested cube shaped objects first, but found that capsules had less collision issues
+-Set up a hinge joint between two capsules with the top capsule hinged in place.
+-Set joint limits to try and mimic an arm rom
+-Ended up turning off colliders between the two capsules. I think they will cause more issues than they contribute to the simulation
+-Added spring joints on either side of the hinge. By changing the spring values I can control how much the arm bends
+-Springs need to dampen a lot so there's not so much bounching around
+-The model in theroy should be able to hold any pose when the string forces are matched.
+-Next steps are to build a script that controls how much force each muscle gets
+-Then build a body out of capsules
+-Then start zeroing in on realistic values for a base model

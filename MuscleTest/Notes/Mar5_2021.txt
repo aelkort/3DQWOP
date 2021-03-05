@@ -1,0 +1,10 @@
+-Lower center of gravity 
+-Character rigging
+-Biomechincal modelling programs how do they do it?, How does MuJoCO do it? -> works with OpenGym wrapper MLagents
+-Contracting and expanding
+-Playing with the mass, lowering and raising
+-Go back to rat paper - continous space
+-How many controls do you need? - Hierarchial motor control paper
+-Something about how gravitiy affects it.
+-MuJoCo is free for students now
+-How do muscles activate in utero
